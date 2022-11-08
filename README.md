@@ -35,7 +35,7 @@
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thamireslopescz&theme=monokai&utcOffset=8)
 ![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thamireslopescz&theme=monokai)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=umpierres&theme=xcode&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=thamireslopescz&theme=xcode&hide_border=true&area=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
