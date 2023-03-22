@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAF54E&size=48&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+THAMIRES+LOPES;22+YEARS+OLD+IN+LOVE;WITH+PROGRAMMING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAF54E&size=48&center=true&vCenter=true&width=1000&lines=MY+NAME+IS+THAMIRES+LOPES;22+YEARS+OLD+👶;IN+LOVE+WITH+PROGRAMMING+👩‍💻)](https://git.io/typing-svg)
 
 ### Main skills:
 
