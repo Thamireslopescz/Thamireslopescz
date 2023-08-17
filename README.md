@@ -34,9 +34,45 @@ Full Stack Web Developer Student | JavaScript | HTML | CSS | React | Node.js | T
 - React
 - Flutter
 
-## Hobbies
+## About Me
 
-🐾 Pets 🎧 Music 📚 Studying
+Hi, I'm Thamires, a passionate Full Stack Web Developer with expertise in various programming languages such as JavaScript, HTML, CSS, and C++. I thrive on challenges and am constantly seeking opportunities to learn and grow.
+
+My journey has taken me from national and international robotics experiences to web development leadership roles, where I coordinate and guide teams to deliver high-quality applications that meet client needs.
+
+In addition to my technical pursuits, I indulge in experimenting with exotic drinks, cooking new dishes, exploring new places, and enjoying thought-provoking movies and series.
+
+I have a diverse range of skills that extend beyond the core technologies of JavaScript, HTML, CSS, and C++. These include:
+
+- React
+- Node.js
+- TypeScript
+- Flutter
+- Angular
+- Python
+
+If you're looking for a dedicated and knowledgeable tech enthusiast, feel free to connect with me!
+
+## Experience
+
+### Columbus Logística Internacional
+
+**Lead Developer**  
+_February 2023 - Present_  
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+As a Lead Developer, I play a central role in coordinating and guiding a web development and UX/UI team to create and maintain the company's systems. My main focus is on leading an effective development team, ensuring the delivery of high-quality web applications within established deadlines.
+
+Some of my responsibilities include:
+
+- Project coordination
+- Development and maintenance of applications
+- Mentoring and guidance
+- Resource and timeline management
+- Collaboration and communication
+- Quality assessment
+- Innovation implementation
+- Problem-solving and decision-making
 
 ## GitHub Activity
 
