@@ -42,15 +42,6 @@ My journey has taken me from national and international robotics experiences to 
 
 In addition to my technical pursuits, I indulge in experimenting with exotic drinks, cooking new dishes, exploring new places, and enjoying thought-provoking movies and series.
 
-I have a diverse range of skills that extend beyond the core technologies of JavaScript, HTML, CSS, and C++. These include:
-
-- React
-- Node.js
-- TypeScript
-- Flutter
-- Angular
-- Python
-
 If you're looking for a dedicated and knowledgeable tech enthusiast, feel free to connect with me!
 
 ## Experience
