@@ -44,27 +44,6 @@ In addition to my technical pursuits, I indulge in experimenting with exotic dri
 
 If you're looking for a dedicated and knowledgeable tech enthusiast, feel free to connect with me!
 
-## Experience
-
-### Columbus Logística Internacional
-
-**Lead Developer**  
-_February 2023 - Present_  
-Novo Hamburgo, Rio Grande do Sul, Brasil
-
-As a Lead Developer, I play a central role in coordinating and guiding a web development and UX/UI team to create and maintain the company's systems. My main focus is on leading an effective development team, ensuring the delivery of high-quality web applications within established deadlines.
-
-Some of my responsibilities include:
-
-- Project coordination
-- Development and maintenance of applications
-- Mentoring and guidance
-- Resource and timeline management
-- Collaboration and communication
-- Quality assessment
-- Innovation implementation
-- Problem-solving and decision-making
-
 ## GitHub Activity
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thamireslopescz&theme=monokai&utcOffset=8)
